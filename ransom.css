@@ -1,5 +1,17 @@
+body {
+    filter: saturate(0);
+    perspective: 50vh;
+}
+
+* {
+    border: none !important;
+    background: none !important;
+}
+
 span {
     display: inline-block;
     color: black;
     position: relative;
+    padding: 0.1em;
 }
+
