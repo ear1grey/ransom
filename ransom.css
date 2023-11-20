@@ -1,5 +1,4 @@
 body {
-    filter: saturate(0);
     perspective: 50vh;
 }
 
@@ -11,7 +10,10 @@ body {
 span {
     display: inline-block;
     color: black;
-    position: relative;
-    padding: 0.1em;
+}
+
+img {
+    box-shadow: 0.1em 0.1em 0.4em black;
+    filter: grayscale(1) blur(2px) invert();
 }
 

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Ransome Note Extension",
+  "name": "Ransom Note Extension",
   "version": "1.0",
-  "description": "A Silly Interface Hackday creation",
+  "description": "I went to a hackday, the theme was silly interfaces so I created this. It's a chrome extension that imagines what it would look like if all websites were ransom notes.",
   "icons": {
     "16": "i/icon16.png",
     "48": "i/icon48.png",
